@@ -1,0 +1,28 @@
+*{
+  box-sizing:border-box;
+}
+
+
+*.header{
+  text-align: center;
+  font: Monaco;
+  color: white;
+  background-color:blue;
+  font-size:50px;
+}
+
+*.header2{
+  text-align: left;
+  font: Monaco;
+  color: white;
+  background-color:blue;
+  font-size:20px;
+}
+
+*.main{
+  text-align: center;
+  font: Monaco;
+  color: white;
+  background-color:blue;
+  font-size:50px;
+}
