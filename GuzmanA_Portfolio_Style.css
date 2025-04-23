@@ -3,7 +3,7 @@
 }
 
 
-.header{
+*.header{
   text-align: center;
   font: "Monaco";
   color: white;
@@ -11,7 +11,7 @@
   font-size:50px;
 }
 
-.header2{
+*.header2{
   text-align: center;
   font: Monaco;
   color: white;
@@ -19,7 +19,24 @@
   font-size:20px;
 }
 
-.main{
+*.topnav a{
+  flat: left;
+  text-align: center;
+  vertical-align: center;
+  color: white;
+  padding:10px;
+  text-decoration: none;
+  width: 20%;
+}  
+  
+*.topnav a:hover{
+    background-color: white;
+    color: rgb(100,0,125);
+    padding:10px;
+    text-align: center;
+}   
+
+*.main{
   text-align: left;
   font: Monaco;
   color: white;
